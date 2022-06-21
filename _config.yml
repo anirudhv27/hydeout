@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Anirudh Valiveru
 tagline:          'Create and Inspire'
-description:      'Computer Science @ MIT. Aspiring Tech Entrepreneur and Robotics Researcher. Self-taught Polyglot and Language Enthusiast.'
+description:      'MIT CS | Aspiring entrepreneur, robotics researcher, and language enthusiast.'
 url:              https://anirudhv27.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
