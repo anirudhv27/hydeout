@@ -6,4 +6,13 @@
 $sidebar-bg-color: #4168ac;
 $link-color: #4168ac;
 $sidebar-sticky: false;
+summary {
+  display: block
+}
+
+.project-title {
+  color: #4168ac;
+  text-decoration: underline;
+}
+
 @import "hydeout";
