@@ -1,12 +1,4 @@
----
-layout: page
-title: Projects
-sidebar_link: true
-sidebar_sort_order: 2
----
-
-_Click title link for more info about each project!_
-
+I"¤<p><em>Click title link for more info about each project!</em></p>
 <details>
   <summary><h2 class="project-title">Socialyze: Friendship Discovery</h2></summary>
 
@@ -20,9 +12,9 @@ _Click title link for more info about each project!_
 
 </details>
 
-<iframe width="750" height="420" src="https://www.youtube.com/embed/VRR51J8598w" title="Socialyze: Discover Your Interests" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="420" src="https://www.youtube.com/embed/VRR51J8598w" title="Socialyze: Discover Your Interests" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
----
+<hr />
 
 <details>
   <summary><h2 class="project-title">Tango: AI Dance Coach</h2></summary>
@@ -38,10 +30,9 @@ _Click title link for more info about each project!_
 
 </details>
 
-<iframe width="750" height="420" src="https://www.youtube.com/embed/8-6WGpPql-4" title="Tango Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="420" src="https://www.youtube.com/embed/8-6WGpPql-4" title="Tango Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
----
-
+<hr />
 <details>
   <summary><h2 class="project-title">AI-Powered Gesture Interface For Automobile Control</h2></summary>
 
@@ -56,24 +47,30 @@ _Click title link for more info about each project!_
 
 </details>
 
-<iframe width="750" height="420" src="https://www.youtube.com/embed/265pv4jGRmo" title="AI-Powered Gesture Interface For Automobiles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="750" height="420" src="https://www.youtube.com/embed/265pv4jGRmo" title="AI-Powered Gesture Interface For Automobiles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
----
-
+<hr />
 <details>
   <summary><h2 class="project-title">Mission Connected</h2></summary>
 
-  <p>Mission Connected is a cross-platform close forum for high school club officers to communicate with their members. After experiencing struggles with club communication as both an active club member and officer, I developed a mobile app for both <a href="https://github.com/anirudhv27/missionconnectedios">iOS</a> and <a href="https://github.com/anirudhv27/missionconnectedandroid">Android</a> to centralize communication and streamline club discovery and approval. </p>
+  <p>Mission Connected is a cross-platform close forum for high school club officers to communicate with their members. After experiencing struggles with club communication as both an active club member and officer, I developed a mobile app for both iOS and Android to centralize communication and streamline club discovery and approval. </p>
 
+  <h3>iOS
   <ul>
-    <li>Storyboarded and implemented club selection, dashboard, and event publishing tabs</li>
-    <li>Developed admin tool for school administrators to approve new club proposals and provide feedback.</li>
-    <li>Implemented Google OAuth to make application secure and authenticated</li>
-    <li>Integrated several open-source projects into the application to provide the best functionality to the app's users.</li>
+    <li>Utilized the ESP32 microcontrollerâ€™s HC-06 Bluetooth and WiFi capabilities (coded using C++ and the Arduino framework)</li>
+    <li>Developed a backend computer vision algorithm to detect hand gestures from still Arducam images (developed with OpenCV in Python)</li>
+    <li>Integrated several pieces of crucial hardware such as the Arducam and DFPlayer MP3 system to provide a fully integrated user experience that interfaces with the user's mobile device.</li>
+    <li>Demonstrated prototype for a gesture-based control system for a car's navigation, media control, temperature, and communication capabilities.</li>
   </ul>
 
-  <p>I used FireBase for my app's backend.</p>
+  ### Android
 
-</details>
+&lt;/details&gt;
 
-<iframe width="750" height="420" src="https://www.youtube.com/embed/RuD-W7nY72k" title="Mission Connected Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Github Repo](https://github.com/anirudhv27/MissionConnectediOS)
+
+<iframe width="750" height="420" src="https://www.youtube.com/embed/RuD-W7nY72k" title="Mission Connected Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+
+</h3></details>
+:ET
