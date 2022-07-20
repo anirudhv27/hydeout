@@ -7,7 +7,7 @@ $sidebar-bg-color: #4168ac;
 $link-color: #4168ac;
 $sidebar-sticky: false;
 summary {
-  display: block
+  display: block;
 }
 
 .project-title {
@@ -16,6 +16,7 @@ summary {
 
 .project-title:hover {
   text-decoration: underline;
+  cursor: pointer;
 }
 
 @import "hydeout";
