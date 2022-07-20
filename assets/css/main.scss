@@ -10,13 +10,16 @@ summary {
   display: block;
 }
 
+summary {
+}
+
 .project-title {
   color: #4168ac;
+  cursor: pointer;
 }
 
 .project-title:hover {
   text-decoration: underline;
-  cursor: pointer;
 }
 
 @import "hydeout";
