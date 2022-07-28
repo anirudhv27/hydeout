@@ -1,11 +1,4 @@
----
-layout: page
-title: Projects
-sidebar_link: true
-sidebar_sort_order: 2
----
-
-_Click title link for more info about each project!_
+I"Û<p><em>Click title link for more info about each project!</em></p>
 
 <details>
   <summary><h2 class="project-title">Socialyze: Friendship Discovery</h2></summary>
@@ -20,12 +13,11 @@ _Click title link for more info about each project!_
 
 </details>
 
-<div class="video-container">
-  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/VRR51J8598w" title="Socialyze: Discover Your Interests" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div>
+  <iframe width="750" height="420" src="https://www.youtube.com/embed/VRR51J8598w" title="Socialyze: Discover Your Interests" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
-
----
+<hr />
 
 <details>
   <summary><h2 class="project-title">Tango: AI Dance Coach</h2></summary>
@@ -41,11 +33,11 @@ _Click title link for more info about each project!_
 
 </details>
 
-<div class="video-container">
-  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/8-6WGpPql-4" title="Tango Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div>
+  <iframe width="750" height="420" src="https://www.youtube.com/embed/8-6WGpPql-4" title="Tango Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
----
+<hr />
 
 <details>
   <summary><h2 class="project-title">AI-Powered Gesture Interface For Automobile Control</h2></summary>
@@ -61,11 +53,11 @@ _Click title link for more info about each project!_
 
 </details>
 
-<div class="video-container">
-  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/265pv4jGRmo" title="AI-Powered Gesture Interface For Automobiles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div>
+  <iframe width="750" height="420" src="https://www.youtube.com/embed/265pv4jGRmo" title="AI-Powered Gesture Interface For Automobiles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
----
+<hr />
 
 <details>
   <summary><h2 class="project-title">Mission Connected</h2></summary>
@@ -83,6 +75,7 @@ _Click title link for more info about each project!_
 
 </details>
 
-<div class="video-container">
-  <iframe class="responsive-iframe" src="https://www.youtube.com/embed/RuD-W7nY72k" title="Mission Connected Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<p>&lt;div class=‚Äùvideo-container&gt;</p>
+<iframe width="750" height="420" src="https://www.youtube.com/embed/RuD-W7nY72k" title="Mission Connected Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<p>&lt;/div&gt;</p>
+:ET
