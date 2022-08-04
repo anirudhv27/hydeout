@@ -63,7 +63,7 @@ Define your own variables, then import in Hydeout's SCSS, like so:
 
 $sidebar-bg-color: #ac4142;
 $link-color: #ac4142;
-$sidebar-sticky: false;
+$sidebar-sticky: true;
 @import "hydeout";
 ```
 
